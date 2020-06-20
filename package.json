@@ -1,0 +1,23 @@
+{
+  "name": "break_bricks",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "./index.js",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "http": "http-server -p 9999 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eanchan0310/break_bricks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eanchan0310/break_bricks/issues"
+  },
+  "homepage": "https://github.com/eanchan0310/break_bricks#readme"
+}
